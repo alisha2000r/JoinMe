@@ -1,10 +1,11 @@
-# SocialEcho
+
+# SocialMedia
 
 A social networking platform with automated content moderation and context-based authentication system.
 
 [Watch Demo](https://youtu.be/Tmncayg7FeU)
 
-![UI-community](https://raw.githubusercontent.com/nz-m/SocialEcho/main/resources/UI-community.png)
+![UI-community](https://raw.githubusercontent.com/alisha2000r/SocialMedia/main/resources/UI-community.png)
 
 ## Table of Contents
 
@@ -180,3 +181,7 @@ https://youtu.be/Tmncayg7FeU
 
 This project is licensed under the [MIT License](https://github.com/nz-m/SocialEcho/blob/main/LICENSE).
 
+=======
+# SocialMedia
+JoinMe Project details
+>>>>>>> 44c6b3ef038bc64e21b34c558599d65d5f09615f

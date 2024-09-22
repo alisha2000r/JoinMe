@@ -6,7 +6,7 @@ import { AiFillGithub } from "react-icons/ai";
 import { RxCross1 } from "react-icons/rx";
 import { MdOutlineAdminPanelSettings } from "react-icons/md";
 import ButtonLoadingSpinner from "../components/loader/ButtonLoadingSpinner";
-import Logo from "../assets/SocialEcho.png";
+import Logo from "../assets/logo.png";
 
 const SignIn = () => {
   const [loading, setLoading] = useState(false);
@@ -42,7 +42,7 @@ const SignIn = () => {
   };
 
   return (
-    <section className="bg-white">
+    <section className="bg-[#f4ddd9]">
       <div className="container mx-auto flex min-h-screen flex-col items-center justify-center px-6">
         <form className="w-full max-w-md">
           <div className="mx-auto flex justify-center">
